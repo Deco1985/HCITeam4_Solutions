@@ -1,0 +1,23 @@
+      Especificación del problema
+
+  Las citas y registros de las visitas y consultas a la clínica se hacen en físico, anotando la información en una libreta que tiene la secretaría. La secretaria es la única que tiene acceso directo
+a esa información y la que delega las visitas/citas a los terapeutas. Esto puede derivar en que el proceso sea muy lento y la información se demore en llegar a los terapeutas.
+  Para abordar este problema, se cuenta con un mock-up inicial que describe y presenta una idea principal de solución que abarca los puntos identificados durante el primer contacto. 
+
+      Determinación del target
+
+La solución propuesta está dirigida al personal del área administrativa de la clínica de la Facultad de Psicología, ya que son quienes gestionan las citas y registros de manera directa.
+
+      Información necesaria de los stakeholders para continuar
+
+Stakeholders
+  •	Secretaria
+  •	Coordinador(a) de la clínica
+  •	Terapeutas
+  •	Evaluador
+  •	Paciente
+
+        Información necesaria
+  -Tener acceso a la grabación o registro de la primera llamada con el cliente.
+  -Profundizar en los aspectos que el cliente señaló durante la reunión inicial.
+  -Realizar un estudio demográfico para conocer mejor el contexto y las necesidades de los usuarios.
